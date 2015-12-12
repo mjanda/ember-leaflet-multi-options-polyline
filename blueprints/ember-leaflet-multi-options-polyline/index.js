@@ -16,6 +16,6 @@ module.exports = {
   },
 
   afterInstall: function(options) {
-   return this.addBowerPackageToProject('hgoebl/Leaflet.MultiOptionsPolyline', '~0.8.1');
+   return this.addBowerPackageToProject('git@github.com:hgoebl/Leaflet.MultiOptionsPolyline', '~0.8.1');
   }
 };
