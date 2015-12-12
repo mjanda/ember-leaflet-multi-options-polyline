@@ -1,6 +1,6 @@
 {
   "name": "ember-leaflet-multi-options-polyline",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "description": "Addon for ember-leaflet 2.x integrating hgoebl/Leaflet.MultiOptionsPolyline",
   "directories": {
     "doc": "doc",
