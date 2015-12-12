@@ -1,6 +1,10 @@
-# Ember-leaflet-multi-options-polyline
+# ember-leaflet-multi-options-polyline
 
-This README outlines the details of collaborating on this Ember addon.
+## Usage
+
+{{multi-options-polyline latlngs=mapContent options=mapContentOptions}}
+
+where latlngs and options are the same as in [Leaflet.MultiOptionsPolyline](https://github.com/hgoebl/Leaflet.MultiOptionsPolyline)
 
 ## Installation
 
@@ -11,7 +15,7 @@ This README outlines the details of collaborating on this Ember addon.
 ## Running
 
 * `ember server`
-* Visit your app at http://localhost:4200.
+* Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ## Running Tests
 
