@@ -1,7 +1,7 @@
 {
   "name": "ember-leaflet-multi-options-polyline",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Addon for ember-leaflet 2.x integrating hgoebl/Leaflet.MultiOptionsPolyline",
   "directories": {
     "doc": "doc",
     "test": "tests"
