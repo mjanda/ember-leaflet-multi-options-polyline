@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/mjanda/ember-leaflet-multi-options-polyline.git",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -31,14 +31,17 @@
     "ember-cli-release": "0.2.8",
     "ember-cli-sri": "^1.1.0",
     "ember-cli-uglify": "^1.2.0",
-    "ember-data": "1.13.15",
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
     "ember-disable-prototype-extensions": "^1.0.0",
     "ember-try": "~0.0.8"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-leaflet",
+    "leaflet",
+    "ember",
+    "polyline"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"
