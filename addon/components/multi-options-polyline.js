@@ -7,7 +7,8 @@ export default BaseLayer.extend({
   ],
 
   leafletProperties: [
-    'latlngs:setLatLngs'
+    'latlngs:setLatLngs',
+    'options:setOptions',
   ],
 
   createLayer() {

@@ -16,6 +16,6 @@ module.exports = {
   },
 
   afterInstall: function(options) {
-   return this.addBowerPackageToProject('Leaflet.MultiOptionsPolyline', 'https://github.com/hgoebl/Leaflet.MultiOptionsPolyline.git#0.8.1');
+   return this.addBowerPackageToProject('Leaflet.MultiOptionsPolyline', 'https://github.com/mjanda/Leaflet.MultiOptionsPolyline.git#master');
   }
 };
