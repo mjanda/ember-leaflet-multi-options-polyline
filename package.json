@@ -1,6 +1,6 @@
 {
   "name": "ember-leaflet-multi-options-polyline",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "Addon for ember-leaflet 2.x integrating hgoebl/Leaflet.MultiOptionsPolyline",
   "directories": {
     "doc": "doc",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Marek Janda <nyx@nyx.cz>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
@@ -31,9 +31,10 @@
     "ember-cli-release": "0.2.8",
     "ember-cli-sri": "^1.1.0",
     "ember-cli-uglify": "^1.2.0",
+    "ember-disable-prototype-extensions": "^1.0.0",
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
-    "ember-disable-prototype-extensions": "^1.0.0",
+    "ember-leaflet": "^2.0.0",
     "ember-try": "~0.0.8"
   },
   "keywords": [
